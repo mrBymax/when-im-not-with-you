@@ -47,3 +47,6 @@ If you want to contribute to this project, please send me an email and I will be
 
 [Website](https://www.federicobertossi.com) or
 [Email](mailto:hello@federicobertossi.com)
+
+
+_And also a big thank you to _@cgreening_ for the project setup!_
